@@ -1,0 +1,31 @@
+///////////////////////////
+// Andrew Xia
+// Homework 4
+///////////////////////////
+
+
+This assignment involves learning the debug tool and 
+
+proess.
+
+I chose the Keil uvision debug tool.  To debug thru the 
+
+CMSIS DAP, the mbed board's firmware was upgraded 
+
+first, follow by installation of Keil uVision 5.
+
+The source code was exported and for Keil tool chain, 
+
+where it was rebuilt, and downloaded to the target.  
+
+From here, breakpoints were inserted, debug session is 
+
+started.  I was able to step thru different parts of 
+
+the code and watch values of variables change.
+
+Hours spent on this assignment:  4 hours
+
+Hours spend on reading Embedded Systems (Wiki):  3 hours
+
+I do not have the Embedded Software Primer book.
